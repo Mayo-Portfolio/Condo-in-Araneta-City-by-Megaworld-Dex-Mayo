@@ -1,23 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
    <url>
       <loc>https://mayo-portfolio.github.io/DexMayo/</loc>
       <lastmod>2025-09-30</lastmod>
       <priority>1.0</priority>
    </url>
+
    <url>
       <loc>https://mayo-portfolio.github.io/DexMayo/about.html</loc>
       <lastmod>2025-09-30</lastmod>
       <priority>0.8</priority>
    </url>
+
    <url>
       <loc>https://mayo-portfolio.github.io/DexMayo/services.html</loc>
       <lastmod>2025-09-30</lastmod>
       <priority>0.8</priority>
    </url>
+
    <url>
       <loc>https://mayo-portfolio.github.io/DexMayo/contact.html</loc>
       <lastmod>2025-09-30</lastmod>
       <priority>0.7</priority>
    </url>
+
+   <url>
+      <loc>https://mayo-portfolio.github.io/DexMayo/DevelopmentPlan.html</loc>
+      <lastmod>2025-09-30</lastmod>
+      <priority>0.6</priority>
+   </url>
+
+   <url>
+      <loc>https://mayo-portfolio.github.io/DexMayo/dev2.html</loc>
+      <lastmod>2025-09-30</lastmod>
+      <priority>0.6</priority>
+   </url>
+
+   <url>
+      <loc>https://mayo-portfolio.github.io/DexMayo/location.html</loc>
+      <lastmod>2025-09-30</lastmod>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://mayo-portfolio.github.io/DexMayo/studio.html</loc>
+      <lastmod>2025-09-30</lastmod>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://mayo-portfolio.github.io/DexMayo/1bed.html</loc>
+      <lastmod>2025-09-30</lastmod>
+      <priority>0.6</priority>
+   </url>
+
+   <url>
+      <loc>https://mayo-portfolio.github.io/DexMayo/2bed.html</loc>
+      <lastmod>2025-09-30</lastmod>
+      <priority>0.6</priority>
+   </url>
+
 </urlset>
