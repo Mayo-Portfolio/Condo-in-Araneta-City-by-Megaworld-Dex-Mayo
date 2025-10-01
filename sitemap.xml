@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mayo-portfolio.github.io/DexMayo/</loc></url>
-  <url><loc>https://mayo-portfolio.github.io/DexMayo/DevelopmentPlan.html</loc></url>
-  <url><loc>https://mayo-portfolio.github.io/DexMayo/location.html</loc></url>
-  <url><loc>https://mayo-portfolio.github.io/DexMayo/dev2.html</loc></url>
-  <url><loc>https://mayo-portfolio.github.io/DexMayo/studio.html</loc></url>
-  <url><loc>https://mayo-portfolio.github.io/DexMayo/1bed.html</loc></url>
-  <url><loc>https://mayo-portfolio.github.io/DexMayo/2bed.html</loc></url>
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://mayo-portfolio.github.io/DexMayo/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Project page -->
+  <url>
+    <loc>https://mayo-portfolio.github.io/Condo-in-Araneta-City-by-Megaworld-Dex-Mayo/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Other pages -->
+  <url>
+    <loc>https://mayo-portfolio.github.io/DexMayo/location.html</loc>
+  </url>
+  <url>
+    <loc>https://mayo-portfolio.github.io/DexMayo/dev2.html</loc>
+  </url>
+  <url>
+    <loc>https://mayo-portfolio.github.io/DexMayo/studio.html</loc>
+  </url>
+  <url>
+    <loc>https://mayo-portfolio.github.io/DexMayo/1bed.html</loc>
+  </url>
+  <url>
+    <loc>https://mayo-portfolio.github.io/DexMayo/2bed.html</loc>
+  </url>
+
 </urlset>
