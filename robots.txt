@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mayo-portfolio.github.io/DexMayo/sitemap.xml
+Sitemap: https://mayo-portfolio.github.io/Condo-in-Araneta-City-by-Megaworld-Dex-Mayo/sitemap.xml
