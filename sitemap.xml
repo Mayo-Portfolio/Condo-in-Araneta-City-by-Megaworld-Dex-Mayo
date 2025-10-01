@@ -3,14 +3,8 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://mayo-portfolio.github.io/DexMayo/</loc>
-    <priority>1.0</priority>
-  </url>
-
-  <!-- Project page -->
-  <url>
     <loc>https://mayo-portfolio.github.io/Condo-in-Araneta-City-by-Megaworld-Dex-Mayo/</loc>
-    <priority>0.9</priority>
+    <priority>1.0</priority>
   </url>
 
   <!-- Other pages -->
